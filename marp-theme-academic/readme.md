@@ -1,0 +1,1 @@
+https://github.com/kaisugi/marp-theme-academic
